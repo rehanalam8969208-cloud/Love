@@ -1,0 +1,11 @@
+<?xml class='1.0' encoding='utf-8'?>
+<widget id="com.rehan.onlineplayer" version="1.0.0" xmlns="http://www.cordova.io/ns/1.0" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>REHAN_MUSIC</name>
+    <description>Online Music Streamer App</description>
+    <author email="rehanalam8969208@gmail.com">Rehan Alam</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
+    <preference name="Scheme" value="https" />
+</widget>
